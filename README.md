@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi, I'm Malaury Keslick - a French Web & Software Engineer passionate about building useful, elegant, and privacy-conscious web solutions.
 
-<!--
-**Maulraay/Maulraay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm currently based in Swiss, near the Liechtenstein border and looking for opportunities in this region or remotely.
 
-Here are some ideas to get you started:
+🌐 My public repository showcases my personal portfolio, built with:
+- **React**, **JavaScript**, **HTML/CSS**
+- Modern UI patterns and responsive design
+- Deployed using **Netlify**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 In my professional experience, I’ve worked on AI-powered chatbots, large-scale enterprise web apps, and internal tooling using:
+- **MERN stack**, **Vue.js**, **TypeScript**, **Python**
+- Cloud services: **IBM Watson**, **AWS**, **Google Cloud**
+- Tools like **Storybook**, **Docker**, **Git**, **Openshift**, **Jenkins**
+
+💡 I aim to build efficient, intuitive interfaces that help people get things done - instead of systems that fight for their attention.
+
+📫 Feel free to visit [malaurykeslick.com](https://malaurykeslick.com) or connect via [LinkedIn](https://www.linkedin.com/in/malaurykeslick/)!
